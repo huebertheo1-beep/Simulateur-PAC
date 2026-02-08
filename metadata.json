@@ -1,0 +1,7 @@
+{
+  "name": "EcoProjet - Simulateur d'Économies Énergie",
+  "description": "Une application interactive pour estimer les économies financières et écologiques lors du passage d'une chaudière fioul à une pompe à chaleur, adaptée aux spécificités climatiques des départements français.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
